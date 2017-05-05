@@ -1,0 +1,9 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Sparkfire"
+theme = "hugo-hyde"
+publishDir = "docs"
+
+[params]
+description = "This is my blog."
+copyright = " "
