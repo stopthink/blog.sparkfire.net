@@ -5,5 +5,5 @@ theme = "hugo-hyde"
 publishDir = "docs"
 
 [params]
-description = "This is my blog."
+description = " "
 copyright = " "
