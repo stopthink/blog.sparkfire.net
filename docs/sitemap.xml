@@ -3,47 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/lessons-learned-on-my-first-high-route/</loc>
+    <loc>http://blog.sparkfire.net/post/fishing-florida/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/post/lessons-learned-on-my-first-high-route/</loc>
     <lastmod>2017-05-01T12:50:46-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://blog.sparkfire.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hiking/</loc>
+    <loc>http://blog.sparkfire.net/tags/fishing/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/categories/fishing/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/florida/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/hiking/</loc>
     <lastmod>2017-05-01T12:50:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/hiking/</loc>
+    <loc>http://blog.sparkfire.net/categories/hiking/</loc>
     <lastmod>2017-05-01T12:50:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://blog.sparkfire.net/post/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/</loc>
+    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/wind-river-range/</loc>
     <lastmod>2017-05-01T12:50:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2017-05-01T12:50:46-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2017-05-01T12:50:46-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/wind-river-range/</loc>
+    <loc>http://blog.sparkfire.net/tags/wyoming/</loc>
     <lastmod>2017-05-01T12:50:46-04:00</lastmod>
     <priority>0</priority>
   </url>

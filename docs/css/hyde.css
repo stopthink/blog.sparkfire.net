@@ -24,6 +24,57 @@
  * Themes
  */
 
+/*
+ * MY CUSTOM STUFF
+ *
+ */
+
+.post {
+    clear: both;
+}
+.post-preview-image {
+    float: left;
+    margin-right: 10px;
+    height: 120px;
+}
+
+.post .post-summary {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.post .post-date {
+    margin-bottom: 0;
+}
+
+.post .post-tags {
+    display: block;
+}
+
+.post .post-tags li:not(:last-child):after {
+    content: ', ';
+}
+
+.post-tags ul {
+    padding-left: 0;
+    list-style: none;
+    display: inline;
+}
+
+.post-tags ul li {
+    display:inline   
+}
+
+.post-title a {
+    line-height: 30px;
+}
+
+.post .read-more {
+    float: left;
+    margin-bottom: 40px;
+}
+    
 
 /*
  * Global resets
@@ -32,17 +83,21 @@
  */
 
 html {
-  font-family: open-sans, Helvetica, Arial, sans-serif;
+  font-family: source-sans-pro, Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 15px;
   }
+}
+
+body {
+    color: #34495e;
 }
 
 
@@ -58,6 +113,9 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  background: #202020 url('/images/sidebar-wrhr.jpg');
+  background-size: cover;
+  background-position: 50% 45% 
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,6 +125,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    background-position: 50% 0%
   }
 }
 
@@ -79,7 +138,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: source-sans-pro, serif;
   font-size: 3.25rem;
 }
 
@@ -108,9 +167,9 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    right: 1em;
+    bottom: 1em;
+    left: 1em;
   }
 }
 

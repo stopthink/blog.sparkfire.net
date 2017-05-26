@@ -24,6 +24,57 @@
  * Themes
  */
 
+/*
+ * MY CUSTOM STUFF
+ *
+ */
+
+.post {
+    clear: both;
+}
+.post-preview-image {
+    float: left;
+    margin-right: 10px;
+    height: 120px;
+}
+
+.post .post-summary {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.post .post-date {
+    margin-bottom: 0;
+}
+
+.post .post-tags {
+    display: block;
+}
+
+.post .post-tags li:not(:last-child):after {
+    content: ', ';
+}
+
+.post-tags ul {
+    padding-left: 0;
+    list-style: none;
+    display: inline;
+}
+
+.post-tags ul li {
+    display:inline   
+}
+
+.post-title a {
+    line-height: 30px;
+}
+
+.post .read-more {
+    float: left;
+    margin-bottom: 40px;
+}
+    
 
 /*
  * Global resets

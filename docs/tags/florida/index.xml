@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florida on Sparkfire</title>
+    <link>http://blog.sparkfire.net/tags/florida/</link>
+    <description>Recent content in Florida on Sparkfire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Fri, 26 May 2017 11:47:32 -0400</lastBuildDate>
+    
+	<atom:link href="http://blog.sparkfire.net/tags/florida/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fishing Florida</title>
+      <link>http://blog.sparkfire.net/post/fishing-florida/</link>
+      <pubDate>Fri, 26 May 2017 11:47:32 -0400</pubDate>
+      
+      <guid>http://blog.sparkfire.net/post/fishing-florida/</guid>
+      <description>With just weeks left in Florida, I&amp;rsquo;ve been trying to take advantage of Florida&amp;rsquo;s more unique opportunities before we head west. I fished a lot when I was younger, but without mentors or the internet has we have it today, I never had much luck. After a decade hiatus, it piqued my interest again and this time around with the help of YouTube, I&amp;rsquo;ve been having much better success.</description>
+    </item>
+    
+  </channel>
+</rss>

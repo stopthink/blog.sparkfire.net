@@ -1,21 +1,22 @@
 +++
 Categories = ["Hiking"]
 Description = ""
-Tags = ["hiking","wind river range"]
+Tags = ["hiking","wind river range","wyoming"]
 date = "2017-05-01T12:50:46-04:00"
 title = "Lessons learned on my first high route"
+preview = "/images/wrhr-2016/wrhr8.jpg"
 +++
 
 
-[wrhr1]: /images/wrhr_2016/wrhr1.jpg
-[wrhr2]: /images/wrhr_2016/wrhr2.jpg
-[wrhr3]: /images/wrhr_2016/wrhr3a.jpg
-[wrhr4]: /images/wrhr_2016/wrhr4.png
-[wrhr5]: /images/wrhr_2016/wrhr5.jpg
-[wrhr6]: /images/wrhr_2016/wrhr6.jpg
-[wrhr7]: /images/wrhr_2016/wrhr7.jpg
-[wrhr8]: /images/wrhr_2016/wrhr8.jpg
-[wrhr9]: /images/wrhr_2016/wrhr9.jpg
+[wrhr1]: /images/wrhr-2016/wrhr1.jpg
+[wrhr2]: /images/wrhr-2016/wrhr2.jpg
+[wrhr3]: /images/wrhr-2016/wrhr3a.jpg
+[wrhr4]: /images/wrhr-2016/wrhr4.png
+[wrhr5]: /images/wrhr-2016/wrhr5.jpg
+[wrhr6]: /images/wrhr-2016/wrhr6.jpg
+[wrhr7]: /images/wrhr-2016/wrhr7.jpg
+[wrhr8]: /images/wrhr-2016/wrhr8.jpg
+[wrhr9]: /images/wrhr-2016/wrhr9.jpg
 
 [email]: mailto:david@sparkfire.net
 

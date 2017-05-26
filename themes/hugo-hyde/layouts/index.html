@@ -8,15 +8,34 @@
 
       {{ range .Data.Pages }}
   <div class="post">
-    <h1 class="post-title">
-      <a href="{{ .Permalink }}">
-        {{ .Title }}
-      </a>
-    </h1>
+    <span class="post-preview-image">
+        <img src="{{ .Params.preview }}" height="120" />
+    </span>
 
-    <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+    <span class="post-info">
+        <h1 class="post-title">
+          <a href="{{ .Permalink }}">
+            {{ .Title }}
+          </a>
+        </h1>
+        
+        <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+        <span class="post-tags">
+            Tags:
+            <ul>
+           {{ range .Params.tags }}
+           <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+           {{ end }} 
+           </ul>
+        </span>
+    </span>
 
-    {{ .Content }}
+    <!--{{ .Content }}-->
+    <span class="post-summary">
+        {{ .Summary }}
+    </span>
+
+    <span class="read-more"><a href="{{ .Permalink }}">Continue Reading &raquo;</a></span>
   </div>
   {{ end }}
 </div>

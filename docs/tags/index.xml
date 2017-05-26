@@ -2,31 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sparkfire</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://blog.sparkfire.net/tags/</link>
     <description>Recent content in Tags on Sparkfire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
-    <lastBuildDate>Mon, 01 May 2017 12:50:46 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2017 11:47:32 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.sparkfire.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Fishing</title>
+      <link>http://blog.sparkfire.net/tags/fishing/</link>
+      <pubDate>Fri, 26 May 2017 11:47:32 -0400</pubDate>
+      
+      <guid>http://blog.sparkfire.net/tags/fishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florida</title>
+      <link>http://blog.sparkfire.net/tags/florida/</link>
+      <pubDate>Fri, 26 May 2017 11:47:32 -0400</pubDate>
+      
+      <guid>http://blog.sparkfire.net/tags/florida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hiking</title>
-      <link>http://localhost:1313/tags/hiking/</link>
+      <link>http://blog.sparkfire.net/tags/hiking/</link>
       <pubDate>Mon, 01 May 2017 12:50:46 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/hiking/</guid>
+      <guid>http://blog.sparkfire.net/tags/hiking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind River Range</title>
-      <link>http://localhost:1313/tags/wind-river-range/</link>
+      <link>http://blog.sparkfire.net/tags/wind-river-range/</link>
       <pubDate>Mon, 01 May 2017 12:50:46 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/wind-river-range/</guid>
+      <guid>http://blog.sparkfire.net/tags/wind-river-range/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wyoming</title>
+      <link>http://blog.sparkfire.net/tags/wyoming/</link>
+      <pubDate>Mon, 01 May 2017 12:50:46 -0400</pubDate>
+      
+      <guid>http://blog.sparkfire.net/tags/wyoming/</guid>
       <description></description>
     </item>
     
