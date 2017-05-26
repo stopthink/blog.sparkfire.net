@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
       <p class="lead">
-      {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
+      {{ with .Site.Params.description }} {{.}} {{ else }}{{end}}
       </p>
     </div>
 
@@ -13,6 +13,10 @@
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}
     </ul>
+
+    <p class="obfuscate"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;
+&#100;&#97;&#118;&#105;&#100;&#64;&#115;&#112;&#97;&#114;&#107;&#102;&#105;&#114;&#101;&#46;&#110;&#101;&#116;">
+&#100;&#97;&#118;&#105;&#100;&#64;&#115;&#112;&#97;&#114;&#107;&#102;&#105;&#114;&#101;&#46;&#110;&#101;&#116;</a></p>
 
     <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}</p>
   </div>
