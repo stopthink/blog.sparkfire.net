@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://blog.sparkfire.net/post/fly-fishing-the-poudre-river/</loc>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/post/spring-turkey/</loc>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.sparkfire.net/post/fishing-florida/</loc>
     <lastmod>2017-05-26T11:47:32-04:00</lastmod>
   </url>
@@ -18,20 +28,32 @@
   </url>
   
   <url>
+    <loc>http://blog.sparkfire.net/tags/colorado/</loc>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.sparkfire.net/tags/fishing/</loc>
-    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.sparkfire.net/categories/fishing/</loc>
-    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.sparkfire.net/tags/florida/</loc>
     <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/fly-fishing/</loc>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,20 +70,50 @@
   </url>
   
   <url>
+    <loc>http://blog.sparkfire.net/tags/hunting/</loc>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/categories/hunting/</loc>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.sparkfire.net/post/</loc>
-    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/poudre/</loc>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.sparkfire.net/</loc>
-    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.sparkfire.net/tags/</loc>
-    <lastmod>2017-05-26T11:47:32-04:00</lastmod>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/trout/</loc>
+    <lastmod>2018-04-23T11:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.sparkfire.net/tags/turkey/</loc>
+    <lastmod>2018-04-15T11:47:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   

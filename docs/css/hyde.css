@@ -74,6 +74,9 @@
     float: left;
     margin-bottom: 40px;
 }
+.obfuscate {
+    unicode-bidi: bidi-override; direction rtl;
+}
     
 
 /*

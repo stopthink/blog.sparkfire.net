@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Sparkfire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright> </copyright>
     
 	<atom:link href="http://blog.sparkfire.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +13,7 @@
     <item>
       <title>Fishing</title>
       <link>http://blog.sparkfire.net/categories/fishing/</link>
-      <pubDate>Fri, 26 May 2017 11:47:32 -0400</pubDate>
+      <pubDate>Mon, 23 Apr 2018 11:15:00 +0000</pubDate>
       
       <guid>http://blog.sparkfire.net/categories/fishing/</guid>
       <description></description>
@@ -26,6 +25,15 @@
       <pubDate>Mon, 01 May 2017 12:50:46 -0400</pubDate>
       
       <guid>http://blog.sparkfire.net/categories/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunting</title>
+      <link>http://blog.sparkfire.net/categories/hunting/</link>
+      <pubDate>Sun, 15 Apr 2018 11:47:32 -0400</pubDate>
+      
+      <guid>http://blog.sparkfire.net/categories/hunting/</guid>
       <description></description>
     </item>
     

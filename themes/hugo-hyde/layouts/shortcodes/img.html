@@ -1,0 +1,5 @@
+
+{{ $img := $.Page.Resources.GetMatch (printf "%s%s%s" "*" (.Get 0) "*")}}
+{{ with $img }}
+    <img src="{{ $img.RelPermalink }}" />
+{{ end}}
