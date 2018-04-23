@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sparkfire</title>
-    <link>http://blog.sparkfire.net/categories/</link>
+    <link>https://blog.sparkfire.net/categories/</link>
     <description>Recent content in Categories on Sparkfire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://blog.sparkfire.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.sparkfire.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fishing</title>
-      <link>http://blog.sparkfire.net/categories/fishing/</link>
+      <link>https://blog.sparkfire.net/categories/fishing/</link>
       <pubDate>Mon, 23 Apr 2018 11:15:00 +0000</pubDate>
       
-      <guid>http://blog.sparkfire.net/categories/fishing/</guid>
+      <guid>https://blog.sparkfire.net/categories/fishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hiking</title>
-      <link>http://blog.sparkfire.net/categories/hiking/</link>
+      <link>https://blog.sparkfire.net/categories/hiking/</link>
       <pubDate>Mon, 01 May 2017 12:50:46 -0400</pubDate>
       
-      <guid>http://blog.sparkfire.net/categories/hiking/</guid>
+      <guid>https://blog.sparkfire.net/categories/hiking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hunting</title>
-      <link>http://blog.sparkfire.net/categories/hunting/</link>
+      <link>https://blog.sparkfire.net/categories/hunting/</link>
       <pubDate>Sun, 15 Apr 2018 11:47:32 -0400</pubDate>
       
-      <guid>http://blog.sparkfire.net/categories/hunting/</guid>
+      <guid>https://blog.sparkfire.net/categories/hunting/</guid>
       <description></description>
     </item>
     

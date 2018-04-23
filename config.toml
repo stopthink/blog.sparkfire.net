@@ -1,4 +1,4 @@
-baseURL = "http://blog.sparkfire.net/"
+baseURL = "https://blog.sparkfire.net/"
 languageCode = "en-us"
 title = "Sparkfire"
 theme = "hugo-hyde"
